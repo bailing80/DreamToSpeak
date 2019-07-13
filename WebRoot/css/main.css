@@ -1,0 +1,248 @@
+@charset "UTF-8";
+
+#time2 {
+	font-size: 20px;
+	width: 300px;
+	height: 50px;
+	position: absolute;
+	left: 1120px;
+	top: 350px;
+	right: 18%;
+}
+.text {
+	font-family: "宋体", System;
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+#time option {
+	font-size: 20px;
+}
+
+#air {
+	font-size: 20px;
+	width: 300px;
+	height: 50px;
+	position: absolute;
+	left: 1120px;
+	top: 580px;
+	right: 18%;
+}
+
+#air option {
+	font-size: 20px;
+}
+
+#timeshow {
+	size: 300px;
+	position: absolute;
+	left: 1120px;
+	top: 550px;
+}
+
+.div {
+	width: 600px;
+	height: 200px;
+	font-size: 13px;
+}
+
+.div select {
+	width: 200px;
+}
+
+.div select option {
+	width: 150px;
+	height: 30px;
+}
+
+#timeshow1 {
+	padding-top: 20px;
+	font-size: 60px;
+	color: 00ff00;
+}
+
+#time {
+	width: 300px;
+	height: 50px;
+	position: absolute;
+	left: 1120px;
+	top: 350px;
+	right: 18%;
+}
+
+#air9 {
+	position: absolute;
+	top: 180px;
+	left: 0px;
+}
+
+#air1 {
+	position: absolute;
+	top: 250px;
+	left: 0px;
+}
+
+#air2 {
+	position: absolute;
+	top: 320px;
+	left: 0px;
+}
+
+#air3 {
+	position: absolute;
+	top: 390px;
+	left: 0px;
+}
+
+#air4 {
+	position: absolute;
+	top: 460px;
+	left: 0px;
+}
+
+#air5 {
+	position: absolute;
+	top: 530px;
+	left: 0px;
+}
+
+#air6 {
+	position: absolute;
+	top: 600px;
+	left: 0px;
+}
+
+#air7 {
+	position: absolute;
+	top: 670px;
+	left: 0px;
+}
+
+#logoImg {
+	position: absolute;
+	top: 100px;
+	right: 30%;
+}
+
+#logoImg1 {
+	position: absolute;
+	top: 190px;
+	right: 37%;
+}
+
+#text {
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	top: 65px;
+	right: 75%;
+	size: 200px;
+}
+
+#text1 {
+	width: 37px;
+	height: 28px;
+	position: absolute;
+	left: 600px;
+	top: 760px;
+}
+
+#text3 {
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	top: 880px;
+	right: 20%;
+}
+#text11 {
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	top: 680px;
+	right: 20%;
+}
+
+#text4 {
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	top: 580px;
+	right: 20%;
+}
+
+#text5 {
+	width: 150px;
+	height: 100px;
+	position: absolute;
+	top: 580px;
+	right: 0%;
+}
+
+#text7 {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	top: 100px;
+	right: 10%;
+}
+
+#text8 {
+	width: 180px;
+	height: 180px;
+	position: absolute;
+	top: 330px;
+	left: 270px;
+	size: 200px;
+}
+
+#text9 {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 300px;
+	right: 75%;
+	size: 200px;
+}
+
+#video {
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	top: 172px;
+	left: 1130px;
+}
+
+#video1 {
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	top: 45px;
+	left: 1250px;
+}
+
+#time {
+	font-size: 100px;
+	width: 400px;
+	height: 120px;
+	position: absolute;
+	top: 450px;
+	left: 150px;
+}
+
+.textBox {
+	border-bottom: 1px;
+	border-left: 1px;
+	border-right: 1px;
+	border-top: 1px;
+	border-color: #666666;
+	border-style: solid;
+}
+#air {
+	width: 300px;
+	height: 50px;
+	position: absolute;
+	left: 1120px;
+	top: 550px;
+	right: 18%;
+}
